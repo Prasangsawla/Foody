@@ -32,3 +32,8 @@ It lets users browse restaurants, view menus, add items to a cart, and simulate 
 
 ## 📂 Project Structure
 
+Output Screenshot:
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/aaf3bb48-e5ae-4d56-9681-eaa31dcfa2f2" /><img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/eed50616-6a46-47ae-9976-ddde68e8c38c" />
+
+
+<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/039c4a4a-8896-412a-a3ef-64add1136f9d" />
